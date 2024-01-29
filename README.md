@@ -35,6 +35,17 @@ The Twitter-Clone project is a demonstration of Data Structures and Algorithms (
 2. [Additional setup instructions, if any]
 3. Run the main application file.
 
+## ScreenShots
+![image](https://github.com/abdulmoiz248/Twitter-clone/assets/124524932/747a6332-05e5-4ea8-a774-f0f7d57cc07f)
+![image](https://github.com/abdulmoiz248/Twitter-clone/assets/124524932/52d41b13-1173-48b8-bade-ed5d80056c5c)
+![image](https://github.com/abdulmoiz248/Twitter-clone/assets/124524932/950602f0-873f-4285-86a6-0ea6afc02914)
+![image](https://github.com/abdulmoiz248/Twitter-clone/assets/124524932/f4ecbd71-6b53-4b6e-8675-6381a9fc1db3)
+![image](https://github.com/abdulmoiz248/Twitter-clone/assets/124524932/0d8292bb-741e-43cf-bec3-d3e66284b4bb)
+![image](https://github.com/abdulmoiz248/Twitter-clone/assets/124524932/c497d551-91d4-423f-a2e0-0b7d152f8388)
+![image](https://github.com/abdulmoiz248/Twitter-clone/assets/124524932/1ed6ff3b-062f-4672-836f-6239131b7a90)
+![image](https://github.com/abdulmoiz248/Twitter-clone/assets/124524932/fbcf02d1-3a43-4440-923c-b10e43f90129)
+![image](https://github.com/abdulmoiz248/Twitter-clone/assets/124524932/cd7bee85-f5ef-41af-a9b1-4b25e1c257cd)
+
 ## Contributors
 - Abdul Moiz
 
